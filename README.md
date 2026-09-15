@@ -21,11 +21,39 @@ Through CloudCrafter, I help businesses build a professional online presence wit
 
 ## Featured Projects
 
-### 1. Tejas Solutions
-Crompton pumps and motors dealership website.
 
-- Website: Add your live website link
-- Technologies: WordPress, Elementor, SEO
+## Tejas Solutions — Website Project
+
+Professional website developed by CloudCrafter for Tejas Solutions, a Crompton pumps and motors dealership in Pune.
+
+### Website Preview
+
+![Tejas Solutions Homepage](Screenshot 2026-09-15 112046.png)
+
+![Tejas Solutions product Website](Screenshot 2026-09-15 112247.png)
+
+![Tejas Solutions Pumps page](Screenshot 2026-09-15 112308.png)
+
+![Tejas Solutions Comparison Pumps page](Screenshot 2026-09-15 112329.png)
+
+### Project Highlights
+
+- Professional WordPress website
+- Responsive website design
+- Product and service presentation
+- SEO optimization
+- Developed by CloudCrafter
+
+### Technologies Used
+
+- WordPress
+- Elementor
+- HTML & CSS
+- SEO
+
+### Live Website
+
+[Visit Tejas Solutions Website](ADD-YOUR-LIVE-WEBSITE-LINK-HERE)
 
 ### 2. Rushali Dive Makeover
 Beauty salon and professional makeup academy website.
