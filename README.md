@@ -56,9 +56,14 @@ Professional website developed by CloudCrafter for Tejas Solutions, a Crompton p
 [Visit Tejas Solutions Website](ADD-YOUR-LIVE-WEBSITE-LINK-HERE)
 
 ### 2. Rushali Dive Makeover
-Beauty salon and professional makeup academy website.
+Professional beauty salon and makeup academy website designed and developed for Rushali Dive, Celebrity Makeup Artist & Beauty Educator in Nashik.
+### Website Preview
 
-- Website: Add your live website link
+![ Rushali Dive Makeover HOMEPAGE](Screenshot 2026-09-16 095747.png)
+
+![Tejas Solutions product Website](Screenshot 2026-09-16 095806.png)
+
+- Website: (https://rushalidivemakeover.co.in/)
 - Technologies: WordPress, Elementor, Responsive Design
 
 ### 3. Vihan Construction
